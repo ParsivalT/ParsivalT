@@ -1,7 +1,5 @@
 
-### Hi, My name is Thiago 🖖
-
-
+### Hey 🖖 I'm Thiago 
 
 ##
 <div align="center">
@@ -10,14 +8,27 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsivalT&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
+  
+  ##  
+
+<h2 > About Me 👨‍</h2>
+ 
+ 💻 **Aspiring Software Developer** and **a sophomore in computer science** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
+ 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+-  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
+  
+-  🌱 I'm familiar with Git, Linux⚙️.
+
+-   👀 I’m interested in Open Source Projects and Technical Writing.
+  
+
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="python" height="40" width="40"src="https://img.icons8.com/color/40/000000/python--v1.png"/>
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="git" height="35" width="40" src="https://img.icons8.com/fluency/40/000000/github.png"/>
-  
-  ##
-  
-  ![Snake animation](https://github.com/ParsivalT/ParsivalT/blob/output/github-contribution-grid-snake.svg)
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2> <img align="center" alt="python" height="32" width="32"src="https://img.icons8.com/color/40/000000/python--v1.png"/>
+  <img align="center" alt="git" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="git" height="32" width="32" src="https://img.icons8.com/fluency/40/000000/github.png"/>
+
  
   </div>
