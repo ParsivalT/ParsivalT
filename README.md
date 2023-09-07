@@ -23,7 +23,7 @@
   
 -  🌱 I'm familiar with Git, Linux⚙️.
 
--   👀 I’m interested in Open Source Projects and Technical Writing.
+-   👀 I’m interested in Open Source Projects and Artificial intelligence.
   
 
 
