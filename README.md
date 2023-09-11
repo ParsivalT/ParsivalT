@@ -1,5 +1,18 @@
 ### Hey 🖖 I'm Thiago 
 
+```js
+from Developer import ParsivalT
+
+class AbountMe(ParsivalT):
+    def __init__(self):
+        super()__init__(
+            name = "Thiago Vinicius dos Santos Felix",
+            area = "Back-end",
+            work = None,
+            level = "Estudante"
+            )
+```
+
 ##
 <div align="center">
   <a href="https://github.com/ParsivalT">
