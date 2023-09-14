@@ -9,7 +9,7 @@ class AbountMe(ParsivalT):
             name = "Thiago Vinicius dos Santos Felix",
             area = "Back-end",
             work = None,
-            level = "Estudante"
+            level = "Student"
             )
 ```
 
