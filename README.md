@@ -41,7 +41,6 @@ class AbountMe(ParsivalT):
 
 <div align="center" valign="top"><br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2> <img align="center" alt="python" height="32" width="32"src="https://img.icons8.com/color/40/000000/python--v1.png"/>
-  <img align="center" alt="java" height="32" width="32" src="https://github.com/ParsivalT/ParsivalT/blob/main/icons8-java-48.png">
   <img align="center" alt="git" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="git" height="32" width="32" src="https://img.icons8.com/fluency/40/000000/github.png"/>
   
